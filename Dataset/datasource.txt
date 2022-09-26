@@ -1,0 +1,9 @@
+
+
+
+*Income estimation
+
+https://archive.ics.uci.edu/ml/datasets/Census+Income
+
+Purchase intention
+https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
